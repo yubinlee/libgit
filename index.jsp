@@ -9,6 +9,7 @@
 </head>
 <body>
 <h1>로그인</h1>
+<h2>로그인해주세요.</h2>
 <form action="login.jsp" method="post">
 <table>
 
